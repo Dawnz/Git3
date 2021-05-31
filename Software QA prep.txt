@@ -2,7 +2,7 @@ about the company
 An IT consulting & outsourcing firm offering custom software development, web/mobile app development, software quality analysis & dedicated software teams to enterprises, SMEs, software product companies, digital agencies and startups.
 
 SLDC
-Decide – What is it you want to build in software???
+Decide – What is it you want to build in software??
 Design – How will you map these decisions to a software environment?
 Develop – Build the software according to the designs.
 Demonstrate – Prove that the software delivers what was required.
